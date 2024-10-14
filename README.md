@@ -1,7 +1,3 @@
-# Project Title
-
-A brief overview of your project and what it does.
-
 ## Table of Contents
 
 1. [Technologies Used](#technologies-used)
