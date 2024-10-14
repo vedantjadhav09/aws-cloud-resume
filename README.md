@@ -29,7 +29,6 @@ A brief overview of your project and what it does.
 ## Features
 
 - Personal resume website
-- Photography portfolio
 - Responsive design
 - View counter feature using AWS Lambda and DynamoDB
 
